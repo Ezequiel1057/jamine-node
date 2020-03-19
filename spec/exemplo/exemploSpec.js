@@ -6,6 +6,6 @@ describe("Suite de teste de exemplo com NodeJS", function(){
 
 describe("Suite de teste de exemplo com NodeJS 2", function(){
     it("deve demonstrar o uso do jasmine com o NodeJS 2", function(){
-        expect(1).toEqual(2);
+        expect(1).toEqual(1);
     });  
 });
